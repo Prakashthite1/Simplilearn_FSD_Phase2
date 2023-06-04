@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.simplilearn.servlet&apos; to &apos;DynamicWebProjectExample/src&apos;&#x0A;- Original project: &apos;DynamicProjectExample&apos;&#x0A;- Destination element: &apos;DynamicWebProjectExample/src&apos;&#x0A;- Original element: &apos;DynamicProjectExample/src/com.simplilearn.servlet&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=DynamicWebProjectExample/src" element1="/src&lt;com.simplilearn.servlet" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1685550975010" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/May/2023:17:28:47 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [31/May/2023:17:28:47 +0000] "GET /DynamicWebServletProjectExample/ HTTP/1.1" 404 787
+127.0.0.1 - - [31/May/2023:17:31:47 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 50
+127.0.0.1 - - [31/May/2023:17:34:36 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 50
+127.0.0.1 - - [31/May/2023:17:35:06 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
+127.0.0.1 - - [31/May/2023:17:35:12 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
+127.0.0.1 - - [31/May/2023:17:35:13 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
+127.0.0.1 - - [31/May/2023:17:35:14 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
+127.0.0.1 - - [31/May/2023:17:35:14 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
+127.0.0.1 - - [31/May/2023:17:35:18 +0000] "GET /DynamicWebServletProjectExample/ServletExample HTTP/1.1" 200 97
